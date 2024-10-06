@@ -15,7 +15,7 @@
  Seminar List: Users can view and enroll in upcoming seminars.
  
  •
- User Dashboard: Personalized dashboard for managing seminar enrollments
+ User Dashboard: Personalized dashboard for managing seminar enrollments.
  
  •
  Login System: Secure authentication for admin and users.
